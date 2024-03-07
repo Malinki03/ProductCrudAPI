@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductCrudAPI.DistributedServices</name>
+    </assembly>
+    <members>
+        <member name="M:ProductCrudAPI.DistributedServices.Controllers.ProductController.ListProducts">
+            <summary>
+            Returns all the products in the database
+            </summary>
+            <returns>A json with all the products</returns>
+            <response code="200">Returns 200 and the list of products</response>
+            <response code="404">Returns 404 if the list is empty</response>
+        </member>
+        <member name="M:ProductCrudAPI.DistributedServices.Controllers.ProductController.CreateProduct(System.String,System.String,System.Double,System.Uri)">
+            <summary>
+            Creates and inserts a product into the database
+            </summary>
+            <returns>The newly created product</returns>
+            <response code="200">Returns 200 and the newly created product</response>
+            <response code="500">Returns 500 if the product isn't created/inserted successfully</response>
+        </member>
+        <member name="M:ProductCrudAPI.DistributedServices.Controllers.ProductController.UpdateProduct(System.Guid,System.String,System.String,System.Double,System.Uri)">
+            <summary>
+            Update a product by it's guid
+            </summary>
+            <returns>The updated product</returns>
+            <response code="200">Returns 200 and the updated product</response>
+            <response code="500">Returns 500 if the product isn't updated/inserted successfully</response>
+        </member>
+        <member name="M:ProductCrudAPI.DistributedServices.Controllers.ProductController.DeleteProduct(System.Guid)">
+            <summary>
+            Delete a product by it's guid
+            </summary>
+            <returns>The deleted product</returns>
+            <response code="200">Returns 200 and the deleted product</response>
+            <response code="500">Returns 500 if the product isn't deleted successfully</response>
+        </member>
+    </members>
+</doc>

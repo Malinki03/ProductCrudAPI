@@ -1,0 +1,12 @@
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/bin/Debug/net6.0/ProductCrudAPI.Domain.Entities.deps.json
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/bin/Debug/net6.0/ProductCrudAPI.Domain.Entities.dll
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/bin/Debug/net6.0/ProductCrudAPI.Domain.Entities.pdb
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.csproj.AssemblyReference.cache
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.AssemblyInfoInputs.cache
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.AssemblyInfo.cs
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.csproj.CoreCompileInputs.cache
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.dll
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/refint/ProductCrudAPI.Domain.Entities.dll
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ProductCrudAPI.Domain.Entities.pdb
+/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Domain.Entities/obj/Debug/net6.0/ref/ProductCrudAPI.Domain.Entities.dll

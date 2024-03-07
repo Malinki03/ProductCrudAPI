@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProductCrudAPI.Domain.Entities/1.0.0": {
+        "dependencies": {
+          "Serilog": "4.0.0-dev-02113",
+          "Serilog.Sinks.Console": "5.0.1"
+        },
+        "runtime": {
+          "ProductCrudAPI.Domain.Entities.dll": {}
+        }
+      },
+      "Serilog/4.0.0-dev-02113": {
+        "runtime": {
+          "lib/net6.0/Serilog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/5.0.1": {
+        "dependencies": {
+          "Serilog": "4.0.0-dev-02113"
+        },
+        "runtime": {
+          "lib/net6.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductCrudAPI.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/4.0.0-dev-02113": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z+he5+aXj+Pv40Vbd5srGNiQSTmQ4Aodo5Pf2irXyEzF49f/9MXw2oCimTmll9FbIq5pkBtC90sZJov/6ryDIg==",
+      "path": "serilog/4.0.0-dev-02113",
+      "hashPath": "serilog.4.0.0-dev-02113.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6Jt8jl9y2ey8VV7nVEUAyjjyxjAQuvd5+qj4XYAT9CwcsvR70HHULGBeD+K2WCALFXf7CFsNQT4lON6qXcu2AA==",
+      "path": "serilog.sinks.console/5.0.1",
+      "hashPath": "serilog.sinks.console.5.0.1.nupkg.sha512"
+    }
+  }
+}

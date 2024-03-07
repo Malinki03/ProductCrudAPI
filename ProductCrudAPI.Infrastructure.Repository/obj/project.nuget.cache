@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yh5ee6VXBxkPSYkUUFWFk7VKWqB0HjF8OR42iJVmjuwb5EJ7OWvx8xfofB89GuqVHTD8x4HPZs/af0Yr+QHu2Q==",
+  "success": true,
+  "projectFilePath": "/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.Infrastructure.Repository/ProductCrudAPI.Infrastructure.Repository.csproj",
+  "expectedPackageFiles": [
+    "/home/malinki/.nuget/packages/serilog/4.0.0-dev-02113/serilog.4.0.0-dev-02113.nupkg.sha512",
+    "/home/malinki/.nuget/packages/serilog.sinks.console/5.0.1/serilog.sinks.console.5.0.1.nupkg.sha512",
+    "/home/malinki/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

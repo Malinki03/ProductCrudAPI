@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j+7KefJDOeGrr6lPgeycx0nQKvJqfl07qr5RHj2R8A0=",
+  "Source": "ProductCrudAPI.DistributedServices",
+  "BasePath": "_content/ProductCrudAPI.DistributedServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

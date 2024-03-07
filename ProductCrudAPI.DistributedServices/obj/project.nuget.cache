@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "URrv8LPACpx0NkGgrZ6mWbUzzJf2NLBYRbZtZPv+uoBYe/hm9TD0bFwNbrz7wy7xUmLWHdYoWKlsHjIm5y3LXQ==",
+  "success": true,
+  "projectFilePath": "/home/malinki/RiderProjects/ProductCrudAPI/ProductCrudAPI.DistributedServices/ProductCrudAPI.DistributedServices.csproj",
+  "expectedPackageFiles": [
+    "/home/malinki/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/malinki/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/malinki/.nuget/packages/serilog/4.0.0-dev-02113/serilog.4.0.0-dev-02113.nupkg.sha512",
+    "/home/malinki/.nuget/packages/serilog.sinks.console/5.0.1/serilog.sinks.console.5.0.1.nupkg.sha512",
+    "/home/malinki/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/malinki/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/malinki/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/malinki/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
